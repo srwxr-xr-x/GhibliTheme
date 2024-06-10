@@ -443,8 +443,8 @@
     },
     "background": {
         "blur": 0.9,
-        "url": "https://github.com/srwxr-xr-x/GhibliTheme/blob/main/Media/statuekingsbury.png?raw=true"
-
+        "url": "https://github.com/srwxr-xr-x/GhibliTheme/blob/main/Media/statuekingsbury.png?raw=true",
+        "alpha": 0.5
     },
     "plus": {
         "version": 0,
