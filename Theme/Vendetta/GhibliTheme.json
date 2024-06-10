@@ -442,9 +442,8 @@
         "YELLOW_300": "#2780E6"
     },
     "background": {
-        "blur": 0.9,
         "url": "https://github.com/srwxr-xr-x/GhibliTheme/blob/main/Media/mobilekingsbury.png?raw=true",
-        "alpha": 0.5
+        "alpha": 0.75
     },
     "plus": {
         "version": 0,
