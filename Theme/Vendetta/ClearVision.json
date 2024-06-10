@@ -1,10 +1,9 @@
 {
-    "name": "ClearVision v1.2.6",
-    "description": "Clear Vision paints serenity across the canvas of our Discord realm.",
+    "name": "GhibliTheme v1.0.0",
+    "description": "A theme with a picture of kingsbury! Built on ClearVision!",
 	"authors": [
       {
-         "name": "Taki_Shiwa",
-         "id": "466968658997149706"
+         "name": "rwxrxrx"
       }
     ],
     "semanticColors": {
@@ -443,7 +442,9 @@
         "YELLOW_300": "#2780E6"
     },
     "background": {
+        "blur": 0.5,
         "url": "https://github.com/srwxr-xr-x/GhibliTheme/blob/main/Media/statuekingsbury.png?raw=true"
+        
     },
     "plus": {
         "version": 0,
