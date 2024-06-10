@@ -442,9 +442,9 @@
         "YELLOW_300": "#2780E6"
     },
     "background": {
-        "blur": 0.5,
+        "blur": 0.9,
         "url": "https://github.com/srwxr-xr-x/GhibliTheme/blob/main/Media/statuekingsbury.png?raw=true"
-        
+
     },
     "plus": {
         "version": 0,
